@@ -1,0 +1,6 @@
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(15, 80, 45, 0.25); /* was 0.65 */
+}
